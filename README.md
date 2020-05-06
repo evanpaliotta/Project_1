@@ -11,6 +11,7 @@ Core Question:
 - What happens to employment, interest rates, money, stocks, bonds and liquidity after a technical recession?
 - What do recoveries look like?
 - How does our current recession compare to past recessions?
+- What will the next year look like in terms of these six categories?
 
 Tasks:
 - Find the datasets (Federal Reserve API etc..)
@@ -24,6 +25,11 @@ Tips:
 - Use more than one dataset
 - Incorporate interantional data
 - Stretch ourselves...do something excel users can't!
+- Implement regression
 
 Datasets:
+- Unemployment: https://fred.stlouisfed.org/series/UNRATE
+- 
+- 
+- 
 - 
