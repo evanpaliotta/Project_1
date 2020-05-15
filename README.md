@@ -1,6 +1,6 @@
 # Project_1 Outline
 
-Title: What Happens to the Economy and the Market One Year After a Recession
+Title: Where We Are and Where We're Going
 
 Team Members:
 - Evan Paliotta
@@ -22,18 +22,4 @@ Major Findings:
 
 Images:
 
-- Simulation:
-
-- Simulation Frequency:
-
-- GDP:
-
-- Unemployment:
-
-- Interest Rates:
-
-- Velocity:
-
-- Money Supply:
-
-- S&P 500:
+- See image file
