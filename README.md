@@ -22,18 +22,4 @@ Major Findings:
 
 Images:
 
-- Simulation:
-
-- Simulation Frequency:
-
-- GDP:
-
-- Unemployment:
-
-- Interest Rates:
-
-- Velocity:
-
-- Money Supply:
-
-- S&P 500:
+- See images file
