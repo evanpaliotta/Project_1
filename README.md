@@ -1,6 +1,6 @@
 # Project_1 Outline
 
-Title: What Happens to the Economy and the Market One Year After a Recession
+Title: Where We Are and Where We're Going
 
 Team Members:
 - Evan Paliotta
@@ -8,10 +8,12 @@ Team Members:
 - Ricky Gunawan
 
 Core Questions: 
+- Whhat is the current state of global markets?
 - What happens to GDP, employment, interest rates, money, velocity, and the S&P 500 after a technical recession?
 - What do these findings suggest about the post Coronavirus Recession?
 
 Major Findings:
+- Global Analysis: Every country's market is suffering except the effects are exacerbated in developing countries 
 - GDP: In every recession except the most recent Great Recession, GDP increases one year from the start of the recession. 
 - Unemployment: In two of the eleven recessions we measured, unemployment decreased nominally.  In the other nine instances unemployment rose.
 - Federal Funds Rate: In all measured cases, interest rates were lower one year after the recession started.
@@ -21,19 +23,4 @@ Major Findings:
 - Although the U.S. economy will not enter a technical recession until July 1, 2020, we can make estimates of starting points and extrapolate outcomes based on our findings.  Our findings illustrate this upcoming recession will most likely have an increase in GDP, greater unemployment, lower interest rates (despite rates being at zero), and decreased velocity.  
 
 Images:
-
-- Simulation:
-
-- Simulation Frequency:
-
-- GDP:
-
-- Unemployment:
-
-- Interest Rates:
-
-- Velocity:
-
-- Money Supply:
-
-- S&P 500:
+- See image file
