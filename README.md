@@ -1,6 +1,4 @@
-# Project_1 Outline
-
-Title: Where We Are and Where We're Going
+# Title: Where We Are and Where We're Going
 
 Team Members:
 - Evan Paliotta
