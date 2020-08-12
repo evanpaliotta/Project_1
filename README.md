@@ -8,7 +8,7 @@ Team Members:
 - Ricky Gunawan
 
 Core Questions: 
-- Whhat is the current state of global markets?
+- What is the current state of global markets?
 - What happens to GDP, employment, interest rates, money, velocity, and the S&P 500 after a technical recession?
 - What do these findings suggest about the post Coronavirus Recession?
 
