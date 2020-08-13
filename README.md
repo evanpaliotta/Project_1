@@ -1,16 +1,35 @@
-# Title: Where We Are and Where We're Going
+# Where We Are and Where We're Going: Recession Analysis
 
-Team Members:
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [Team](#team)
+* [Core Questions](#core-questions)
+* [Code Roadmap](#code-roadmap)
+* [Major Findings](#major-findings)
+* [Contact](#contact)
+
+<!-- TEAM -->
+## Team
+
 - Evan Paliotta
 - Matt Newman
 - Ricky Gunawan
 
-Core Questions: 
-- Whhat is the current state of global markets?
+<!-- CORE QUESTIONS -->
+## Core Questions 
+- What is the current state of global markets?
 - What happens to GDP, employment, interest rates, money, velocity, and the S&P 500 after a technical recession?
 - What do these findings suggest about the post Coronavirus Recession?
 
-Major Findings:
+<!-- CODE ROADMAP -->
+## Code Roadmap
+- To answer these questions, we started by analyzing the current state of the global economy (May 2020).  The country_stock.ipynb file contains the code for the global analysis.
+- Subsequently click the outline.ipynb file to see the U.S. historical recession analysis.
+
+<!-- MAJOR FINDINGS -->
+## Major Findings
+
 - Global Analysis: Every country's market is suffering except the effects are exacerbated in developing countries 
 - GDP: In every recession except the most recent Great Recession, GDP increases one year from the start of the recession. 
 - Unemployment: In two of the eleven recessions we measured, unemployment decreased nominally.  In the other nine instances unemployment rose.
@@ -20,5 +39,11 @@ Major Findings:
 - Despite GDP increasing most of the time, there is a greater liklihood that you will roughly break even in the S&P 500 if you invest at the beginning of a recession.  Ergo, there is a diversion between the real economy and the overall stock market.
 - Although the U.S. economy will not enter a technical recession until July 1, 2020, we can make estimates of starting points and extrapolate outcomes based on our findings.  Our findings illustrate this upcoming recession will most likely have an increase in GDP, greater unemployment, lower interest rates (despite rates being at zero), and decreased velocity.  
 
-Images:
-- See image file
+<!-- CONTACT -->
+## Contact
+
+Evan Paliotta - paliotta.evan@gmail.com
+
+Project Link: [https://github.com/evanpaliotta/Recession_Analysis](https://github.com/evanpaliotta/Recession_Analysis)
+
+LinkedIn - [https://www.linkedin.com/in/evanpaliotta/](https://www.linkedin.com/in/evanpaliotta/)
