@@ -10,6 +10,8 @@
 * [Major Findings](#major-findings)
 * [Contact](#contact)
 
+Presentation Link - [https://docs.google.com/presentation/d/1pjksgjoApZw2lJrajUH_eCMelOyOLqUxjkDwT6S1p7k/edit#slide=id.p](https://docs.google.com/presentation/d/1pjksgjoApZw2lJrajUH_eCMelOyOLqUxjkDwT6S1p7k/edit#slide=id.p)
+
 <!-- TEAM -->
 ## Team
 
