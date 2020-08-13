@@ -6,6 +6,7 @@
 * [Team](#team)
 * [Core Questions](#core-questions)
 * [Code Roadmap](#code-roadmap)
+* [Tools Used](#tools-used)
 * [Major Findings](#major-findings)
 * [Contact](#contact)
 
@@ -26,6 +27,16 @@
 ## Code Roadmap
 - To answer these questions, we started by analyzing the current state of the global economy (May 2020).  The country_stock.ipynb file contains the code for the global analysis.
 - Subsequently click the outline.ipynb file to see the U.S. historical recession analysis.
+
+<!-- TOOLS USED -->
+## Tools Used
+- Pandas
+- HV Plot visualization tools
+- Plotly Express visualization tools
+- Numpy
+- Panel
+- Federal Reserve API
+- Monte Carlo Simulation
 
 <!-- MAJOR FINDINGS -->
 ## Major Findings
